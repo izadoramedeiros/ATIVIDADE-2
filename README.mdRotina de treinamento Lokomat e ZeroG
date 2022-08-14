@@ -1,0 +1,44 @@
+# ATIVIDADE-2
+Rotina de treinamento Lokomat e ZeroG
+**Descreva de forma narrativa (slide 27) com a maior quantidade de detalhes possível (Interação paciente máquina, setup, comunicação com hardware, o que estiver mais familiarizado) como se daria a utilização do Lokomat® e ZeroG®**
+**LOKOMAT**
+
+Paciente chega à clínica
+Se for primeiro atendimento
+Então, avalie o pacinte coletado dados pessoais e nível da lesão
+Se não, começar os procedimentos de treinamento
+acoplar o cinturão de segurança rente às vertebras 
+conduzir o paciente até a esteira
+paciente na esteira
+Para ativar suspensório, clicar no botão ligar
+Se o paciente tiver na posição ortostatica e suspenso pelo dispositivo
+então, colocar lokomat no paciente
+se não, fim do atendimento
+Para iniciar terapia, ajustar todas as travas e agulações dos graus de movimento das articulações dos mmii
+pergubtar ao paciente se está seguro e confortável
+Ativar dispositivo
+Iniciar a marcha com o paciente ainda suspenso
+Com o controle, dar o comando para descer o paciente de forma lenta
+Então, continuar terapia
+Aumentar a cadência através do botão + no controle
+Fornecer feedback visual do desempenho obtido através do monitor 
+Armazenar as informações do treinamento para as próximas sessões.
+
+
+**ZeroG**
+Paciente chega à clínica
+Se, colocar o paciente no dispositivo suspenso
+Então, ajustar travas de segurança
+Se não, não haverá treinamento
+Para iniciar o treinamento, dar start
+Iniciar treinamento
+Aumentar a velocidade da marcha através do App no tablet
+Se, tiver intercorreências
+Apertar stop no tablet
+Se não, Continuar treinamento
+Pedir Feedback ao paciente de como ele está se sentindo
+Armazenar as irformações adquiridas para as próximas sessões.
+
+
+
+
